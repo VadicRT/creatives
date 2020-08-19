@@ -57,7 +57,7 @@ if (animItems.length > 0) {
 			let animItemPoint = window.innerHeight - animItemHeight / animStart;
 
 			if (animItemHeight > window.innerHeight) {
-				animItemPoint = window.innerHeight - window.innerHeight / animStartl
+				animItemPoint = window.innerHeight - window.innerHeight / animStart;
 			}
 
 			if ((pageYOffset > animItemOffset - animItemPoint) && pageYOffset < (animItemOffset + animItemHeight)) {
