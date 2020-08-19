@@ -489,7 +489,7 @@
 }
 
 .arrow__link {
-	display: inline-block;
+	display: block;
 	width: 66px;
 	height: 66px;
 	position: relative;
